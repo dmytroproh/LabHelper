@@ -1,0 +1,35 @@
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\bin\Debug\LabHelper.exe.config
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\bin\Debug\LabHelper.exe
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\bin\Debug\LabHelper.pdb
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\bin\Debug\LabHelper.xml
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.Resources.resources
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.vbproj.GenerateResource.Cache
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.exe
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.xml
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.pdb
+c:\users\dmytro\documents\visual studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.MainForm.resources
+C:\Users\dmytro\Documents\Visual Studio 2012\Projects\LabHelper\LabHelper\obj\Debug\LabHelper.WorkForm.resources
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\bin\Debug\LabHelper.exe.config
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.exe
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.xml
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.pdb
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\bin\Debug\LabHelper.exe
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\bin\Debug\LabHelper.pdb
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\bin\Debug\LabHelper.xml
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.MainForm.resources
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.Resources.resources
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.WorkForm.resources
+C:\Users\dmytro\Downloads\LabHelper\LabHelper\LabHelper\obj\Debug\LabHelper.vbproj.GenerateResource.Cache
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.MainForm.resources
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.Resources.resources
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.WorkForm.resources
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.vbproj.GenerateResource.Cache
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.vbproj.CoreCompileInputs.cache
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.exe
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.xml
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.pdb
+C:\Users\dimka\Downloads\Reliz\LabHelper\obj\Debug\LabHelper.vbprojResolveAssemblyReference.cache
+C:\Users\dimka\Downloads\Reliz\LabHelper\bin\Debug\LabHelper.exe.config
+C:\Users\dimka\Downloads\Reliz\LabHelper\bin\Debug\LabHelper.exe
+C:\Users\dimka\Downloads\Reliz\LabHelper\bin\Debug\LabHelper.pdb
+C:\Users\dimka\Downloads\Reliz\LabHelper\bin\Debug\LabHelper.xml
